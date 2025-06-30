@@ -3,7 +3,7 @@ import AuthForm from '../components/AuthForm';
 import Footer from '../components/Footer';
 
 const Signup = () => {
-  const handleSignup = (data: { email: string; password: string; name: string }) => {
+  const handleSignup = (data: { email: string; password: string; name?: string }) => {
     // Dummy signup logic
     alert(`Signup: ${data.email}`);
   };

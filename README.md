@@ -5,8 +5,9 @@ Landing page modern, responsif, dan SEO friendly untuk privator.id menggunakan N
 ![Next.js](https://img.shields.io/badge/Next.js-15-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blue) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
 
 ## Demo
+
 Akses demo (jika sudah dideploy):  
-https://privator-id.vercel.app  
+<https://privator-id.vercel.app>  
 *(Ganti link sesuai domain deploy Anda)*
 
 ## Fitur
